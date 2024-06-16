@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcelo Pena.
 - 👀 I’m interested in SQL ANSI, Java, Python and SAS.
-- 🌱 I’m currently learning .
+- 🌱 I’m currently learning Blockchain/Solid.
 - 💞️ I’m looking to collaborate on challenging stuff.
 - 📫 How to reach me: coder.pena@gmail.
 
