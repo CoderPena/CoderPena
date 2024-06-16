@@ -22,6 +22,10 @@ In 2024, I am embarking on a personal mission to return to coding, my lifelong p
 - **SO:** Linux and Windows
 - **Project Management:** Technical management, project leadership, problem-solving, solution delivery
 
+## volunteering
+- **The Prem Rawat Foundation (tprf.org):** English translator EN<=>PTBR
+- **FreeCodeCamp:** English translator EN=>PTBR
+
 Feel free to explore my repositories and connect with me!
 
 <!---
