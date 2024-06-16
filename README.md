@@ -17,8 +17,8 @@ In 2024, I am embarking on a personal mission to return to coding, my lifelong p
 
 ## Skills and Expertise
 
-- **Programming Languages:** Clipper, MS Cobol, Blis Cobol, LISP, SQL Windows, Informix/4GL, SQL Server, C++, Assembly, JAVA
-- **Platforms and Tools:** Wordstar, Lotus 123, MS Basic, LINUX, SAS, SQL ANSI
+- **Programming Languages:** SAS, SQL ANSY, Python/Django, Java, C++, Assembly
+- **Platforms and Tools:** VS Code, VI
 - **Project Management:** Technical management, project leadership, problem-solving, solution delivery
 
 Feel free to explore my repositories and connect with me!
