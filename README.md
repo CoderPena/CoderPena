@@ -11,6 +11,8 @@ I'm 53 years old and have been working since I was 14. I entered the IT field at
 
 As a programming enthusiast, I have been studying C++, Assembly, JAVA, and LINUX for many years, continuously expanding my technical knowledge and skills.
 
+I'm naturally into lifelong learning because I love always learning new things.
+
 For the past 20 years, my time has been divided between development and technical project management, focusing on problem-solving and delivery-oriented solutions. I have led projects primarily on the SAS and SQL ANSI platforms. Although my involvement in development has decreased, my passion for coding has never waned.
 
 In 2024, I am embarking on a personal mission to return to coding, my lifelong passion. I am committed to refreshing and updating my skills, reconnecting with the latest trends and innovations in programming.
