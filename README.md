@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcelo Pena.
 - 👀 I’m interested in SQL ANSI, Java, Python and SAS.
-- 🌱 I’m currently learning Data Modeling.
+- 🌱 I’m currently learning .
 - 💞️ I’m looking to collaborate on challenging stuff.
 - 📫 How to reach me: coder.pena@gmail.
 
@@ -18,7 +18,8 @@ In 2024, I am embarking on a personal mission to return to coding, my lifelong p
 ## Skills and Expertise
 
 - **Programming Languages:** SAS, SQL ANSY, Python/Django, Java, C++, Assembly
-- **Platforms and Tools:** VS Code, VI
+- **Platforms and Tools:** VS Code, VI, Data Modeling
+- **SO:** Linux and Windows
 - **Project Management:** Technical management, project leadership, problem-solving, solution delivery
 
 Feel free to explore my repositories and connect with me!
